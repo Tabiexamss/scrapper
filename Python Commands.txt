@@ -1,0 +1,3 @@
+1.	pip install -r __dependencies__.waq
+
+2.	python Mapify.py -q queries.txt -w 2 -v -d "./chrome_driver_backup/chromedriver.exe"
